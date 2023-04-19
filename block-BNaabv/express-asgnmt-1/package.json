@@ -1,0 +1,17 @@
+{
+  "name": "express-asgnmt-1",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
